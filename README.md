@@ -6,7 +6,7 @@ Google_API_speechtotext
 2. upload the flac file into google storage
 3. translate speech to text
 4. save the result of text into path: ./resource/text
-//=====================================================================
+//=====================================================================                                                         
 to achieve this code you need to:
 1. Make sure you create a google API lience in the current folder, Ex: MyProject-%%%%%%%%%%%%%%.json
 2. Enter the following code:
